@@ -8,5 +8,6 @@ object InputOutput {
     val age = readInt()
     println(s"Name: $name")
     println(s"Age: $age")
+    println(" ")
   }
 }
